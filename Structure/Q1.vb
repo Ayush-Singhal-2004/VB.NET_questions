@@ -4,7 +4,7 @@ Structure Book
     Public Price As Integer
 End Structure
 
-Module Module1
+Module Program
 
     Sub Main(args As String())
         Dim book As New Book
